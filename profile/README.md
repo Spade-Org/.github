@@ -11,6 +11,7 @@
   <ol>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#website">Website</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -23,3 +24,6 @@
 
 ## Website
 https://spade-org.github.io/
+
+## Contact
+Mail: contact.spade.org@gmail.com
