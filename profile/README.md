@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT HEADER -->
-# Spade
+# SPADE
 
 **S**patially **P**artitioned **A**nd **D**istributed **E**ngine. *(it's peak)*
 
